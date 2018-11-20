@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+
+    >
+
+
+
+
+    <comt.leo.picker.testline.release.view.LineConcentView
+        android:id="@+id/ShaderImageView"
+        android:layout_width="5000dp"
+        android:layout_height="5000dp" />
+
+
+    <FrameLayout
+        android:id="@+id/layouPoints"
+        android:layout_width="5000dp"
+        android:layout_height="5000dp"
+        android:layout_gravity="center_vertical" />
+    <comt.leo.picker.testline.release.view.WaveView
+        android:id="@+id/waveView"
+        android:layout_width="45dp"
+        android:layout_height="45dp"
+        android:layout_centerInParent="true"
+        />
+
+    <comt.leo.picker.testline.CircleImageView
+        android:id="@+id/image_theOne"
+        android:layout_width="45dp"
+        android:layout_height="45dp"
+        android:layout_centerInParent="true"
+        android:scaleType="centerCrop"
+        />
+
+
+</RelativeLayout>

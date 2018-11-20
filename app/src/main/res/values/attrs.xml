@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <declare-styleable name="MyCustomTitleBar">
+        <attr name="leftBtnDrawable" format="reference" />
+        <attr name="rightBtnDrawable" format="reference" />
+        <attr name="backgroundDrawable" format="reference" />
+        <attr name="leftBtnText" format="string" />
+        <attr name="rightBtnText" format="string" />
+        <attr name="barTips" format="string" />
+        <attr name="barTitle" format="string" />
+        <attr name="isShowTips" format="boolean" />
+        <attr name="isShowTitle" format="boolean" />
+        <attr name="isShowLeft" format="boolean" />
+        <attr name="isShowRight" format="boolean" />
+        <attr name="barBackground" format="reference" />
+        <attr name="isShowRightImage" format="boolean" />
+        <attr name="isShowClose" format="boolean" />
+    </declare-styleable>
+
+
+    <declare-styleable name="CircleImageView">
+        <attr name="border_width" format="dimension" />
+        <attr name="border_color" format="color" />
+        <attr name="border_overlay" format="boolean" />
+    </declare-styleable>
+
+
+    <attr name="shadowOffsetX" format="float" />
+    <attr name="shadowOffsetY" format="float" />
+    <attr name="shadowAlpha" format="float" />
+
+    <attr name="calculateAsync" format="boolean" />
+    <attr name="showWhenAllReady" format="boolean" />
+    <attr name="animateShadow" format="boolean" />
+    <attr name="animationDuration" format="integer" />
+
+    <declare-styleable name="MaterialShadowViewWrapper">
+        <attr name="shadowOffsetX" />
+        <attr name="shadowOffsetY" />
+        <attr name="shadowAlpha" />
+
+        <attr name="calculateAsync" />
+        <attr name="showWhenAllReady" />
+        <attr name="animateShadow" />
+        <attr name="animationDuration" />
+    </declare-styleable>
+
+    <declare-styleable name="MaterialShadowFrameLayoutWrapper">
+        <attr name="shadowOffsetX" />
+        <attr name="shadowOffsetY" />
+        <attr name="shadowAlpha" />
+
+        <attr name="calculateAsync" />
+        <attr name="showWhenAllReady" />
+        <attr name="animateShadow" />
+        <attr name="animationDuration" />
+    </declare-styleable>
+
+    <declare-styleable name="ShadowLayout">
+        <attr name="sl_cornerRadius" format="dimension" />
+        <attr name="sl_shadowRadius" format="dimension" />
+        <attr name="sl_shadowColor" format="color" />
+        <attr name="sl_dx" format="dimension" />
+        <attr name="sl_dy" format="dimension" />
+    </declare-styleable>
+
+
+    <declare-styleable name="ShaderImageView">
+        <attr name="text_tips" format="string" />
+        <attr name="show_progress" format="boolean" />
+        <attr name="progress" format="integer" />
+    </declare-styleable>
+
+    <!--<declare-styleable name="DiffuseView">
+        <attr name="diffuse_color"/>
+        <attr name="diffuse_coreColor"/>
+        <attr name="diffuse_coreImage"/>
+        <attr name="diffuse_coreRadius"/>
+        <attr name="diffuse_width"/>
+        <attr name="diffuse_maxWidth"/>
+        <attr name="diffuse_speed"/>
+    </declare-styleable>-->
+
+
+    <declare-styleable name="CircleProgressView">
+        <attr name="cpv_progressNormalColor" format="color"/>
+        <attr name="cpv_progressReachColor" format="color"/>
+        <attr name="cpv_progressTextColor" format="color"/>
+        <attr name="cpv_progressTextSize" format="dimension"/>
+        <attr name="cpv_progressTextOffset" format="dimension"/>
+        <attr name="cpv_progressNormalSize" format="dimension"/>
+        <attr name="cpv_progressReachSize" format="dimension"/>
+        <attr name="cpv_radius" format="dimension"/>
+        <attr name="cpv_progressTextVisible" format="boolean"/>
+        <attr name="cpv_progressStartArc" format="integer"/>
+        <attr name="cpv_progressTextSkewX" format="dimension"/>
+        <attr name="cpv_progressTextPrefix" format="string"/>
+        <attr name="cpv_progressTextSuffix" format="string"/>
+        <attr name="cpv_innerBackgroundColor" format="color"/>
+        <attr name="cpv_progressStyle" format="enum">
+            <enum name="Normal" value="0"/>
+            <enum name="FillInner" value="1"/>
+            <enum name="FillInnerArc" value="2"/>
+        </attr>
+        <attr name="cpv_innerProgressColor" format="color"/>
+        <attr name="cpv_innerPadding" format="dimension"/>
+        <attr name="cpv_outerColor" format="color"/>
+        <attr name="cpv_outerSize" format="dimension"/>
+        <attr name="cpv_reachCapRound" format="boolean"/>
+    </declare-styleable>
+
+</resources>

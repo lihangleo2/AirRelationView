@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#008577</color>
+    <color name="colorPrimaryDark">#00574B</color>
+    <color name="colorAccent">#D81B60</color>
+    <color name="white">#fff</color>
+    <color name="mine_color">#855a20</color>
+    <color name="solink_background">#1b1c20</color>
+
+
+    <color name="color_luo">#7781C9</color>
+    <!--26 -->
+    <color name="color_luo_alpha">#1a7781C9</color>
+    <color name="color_mor">#337781C9</color>
+    <color name="jidu_1">#fb60ac</color>
+    <color name="jidu_2">#b569dd</color>
+    <color name="jidu_3">#8065cc</color>
+    <color name="jidu_4">#7781c9</color>
+    <color name="jidu_5">#425a90</color>
+    <color name="jidu_6">#2d4476</color>
+    <color name="anse">#1a2d55</color>
+    <color name="noUser">#84858b</color>
+
+
+    <color name="global_ffe0e0e0">#ffe0e0e0</color>
+    <color name="global_ffff4338">#ffff4338</color>
+    <color name="global_ff666666">#ff666666</color>
+
+
+    <color name="seekbar_bg">#0000ff00</color>
+    <color name="seekbar_progress_second">#0000ff00</color>
+    <color name="seekbar_progress">#0000ff00</color>
+
+    <color name="redd">#ff0000</color>
+
+
+
+
+</resources>

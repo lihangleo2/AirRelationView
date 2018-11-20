@@ -1,0 +1,89 @@
+<resources>
+    <!-- Default screen margins, per the Android Design guidelines. -->
+    <dimen name="activity_horizontal_margin">16dp</dimen>
+    <dimen name="activity_vertical_margin">16dp</dimen>
+    <dimen name="space_1">1dp</dimen>
+    <dimen name="space_2">2dp</dimen>
+    <dimen name="space_3">3dp</dimen>
+    <dimen name="space_4">4dp</dimen>
+    <dimen name="space_5">5dp</dimen>
+    <dimen name="space_6">6dp</dimen>
+    <dimen name="space_7">7dp</dimen>
+    <dimen name="space_8">8dp</dimen>
+    <dimen name="space_9">9dp</dimen>
+    <dimen name="space_10">10dp</dimen>
+    <dimen name="space_11">11dp</dimen>
+    <dimen name="space_12">12dp</dimen>
+    <dimen name="space_13">13dp</dimen>
+    <dimen name="space_14">14dp</dimen>
+    <dimen name="space_15">15dp</dimen>
+    <dimen name="space_16">16dp</dimen>
+    <dimen name="space_17">17dp</dimen>
+    <dimen name="space_18">18dp</dimen>
+    <dimen name="space_20">20dp</dimen>
+    <dimen name="space_22">22dp</dimen>
+    <dimen name="space_23">23dp</dimen>
+    <dimen name="space_24">24dp</dimen>
+    <dimen name="space_25">25dp</dimen>
+    <dimen name="space_26">26dp</dimen>
+    <dimen name="space_27">27dp</dimen>
+    <dimen name="space_27.5">27.5dp</dimen>
+    <dimen name="space_28">28dp</dimen>
+    <dimen name="space_30">30dp</dimen>
+    <dimen name="space_31">31dp</dimen>
+    <dimen name="space_32">32dp</dimen>
+    <dimen name="space_33">33dp</dimen>
+    <dimen name="space_35">35dp</dimen>
+    <dimen name="space_37">37dp</dimen>
+    <dimen name="space_38">38dp</dimen>
+    <dimen name="space_40">40dp</dimen>
+    <dimen name="space_41">41dp</dimen>
+    <dimen name="space_45">45dp</dimen>
+    <dimen name="space_50">50dp</dimen>
+    <dimen name="space_52">52dp</dimen>
+    <dimen name="space_55">55dp</dimen>
+    <dimen name="space_58">58dp</dimen>
+    <dimen name="space_60">60dp</dimen>
+    <dimen name="space_61">61dp</dimen>
+    <dimen name="space_65">65dp</dimen>
+    <dimen name="space_70">70dp</dimen>
+    <dimen name="space_75">75dp</dimen>
+    <dimen name="space_80">80dp</dimen>
+    <dimen name="space_90">90dp</dimen>
+    <dimen name="space_100">100dp</dimen>
+    <dimen name="space_120">120dp</dimen>
+    <dimen name="space_135">135dp</dimen>
+    <dimen name="space_150">150dp</dimen>
+    <dimen name="space_180">180dp</dimen>
+    <dimen name="space_181">181.4dp</dimen>
+    <dimen name="space_48px">48px</dimen>
+
+
+
+
+    <dimen name="bar_left_size">16sp</dimen>
+    <dimen name="title_textsize">17sp</dimen>
+    <dimen name="bar_rightsize">14sp</dimen>
+    <dimen name="text_common_size">13sp</dimen>
+    <dimen name="focus_title">14dp</dimen>
+
+
+
+    <dimen name="face_big">26dp</dimen>
+    <dimen name="face_title">20dp</dimen>
+    <dimen name="face_text">15dp</dimen>
+    <dimen name="face_small">11dp</dimen>
+
+
+
+
+    <dimen name="face_search_bigtitle">20dp</dimen>
+    <dimen name="default_corner_radius">4dp</dimen>
+    <dimen name="default_shadow_radius">4dp</dimen>
+
+    <dimen name="login_camera_top_margin">150dp</dimen>
+    <dimen name="login_camera_left_margin">60dp</dimen>
+    <dimen name="login_progress_left_margin">52dp</dimen>
+    <dimen name="x19">18dp</dimen>
+
+</resources>

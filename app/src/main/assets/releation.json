@@ -1,0 +1,322 @@
+[
+  {
+    "group": 0,
+    "userId": 0,
+    "lable": "#0",
+    "headerUrl": "starsInTheSky/0/0.png",
+    "degree": 0,
+    "sonCount": 4,
+    "nickName": "a",
+    "parentGroups": [
+    ],
+    "matchFromId": null,
+    "pictureCount": 0,
+    "matchedParentId": false
+  },
+  {
+    "group": 1,
+    "userId": 1,
+    "lable": "#1",
+    "headerUrl": "starsInTheSky/1/1.png",
+    "degree": 1,
+    "sonCount": 2,
+    "nickName": "level1_1",
+    "parentGroups": [
+      {
+        "group": 0,
+        "pictureCount": 10
+      }
+    ],
+    "matchFromId": null,
+    "pictureCount": 0,
+    "matchedParentId": false
+  },
+  {
+    "group": 2,
+    "userId": 2,
+    "lable": "#2",
+    "headerUrl": "starsInTheSky/1/2.png",
+    "degree": 1,
+    "sonCount": 1,
+    "nickName": "level1_2",
+    "parentGroups": [
+      {
+        "group": 0,
+        "pictureCount": 8
+      }
+    ],
+    "matchFromId": null,
+    "pictureCount": 0,
+    "matchedParentId": false
+  },
+  {
+    "group": 3,
+    "userId": 3,
+    "lable": "#3",
+    "headerUrl": "starsInTheSky/1/3.png",
+    "degree": 1,
+    "sonCount": 1,
+    "nickName": "level1_3",
+    "parentGroups": [
+      {
+        "group": 0,
+        "pictureCount": 8
+      }
+    ],
+    "matchFromId": null,
+    "pictureCount": 0,
+    "matchedParentId": false
+  },
+  {
+    "group": 4,
+    "userId": 4,
+    "lable": "#4",
+    "headerUrl": "starsInTheSky/1/4.png",
+    "degree": 1,
+    "sonCount": 0,
+    "nickName": "level1_4",
+    "parentGroups": [
+      {
+        "group": 0,
+        "pictureCount": 1
+      }
+    ],
+    "matchFromId": null,
+    "pictureCount": 0,
+    "matchedParentId": false
+  },
+  {
+    "group": 11,
+    "userId": 11,
+    "lable": "#11",
+    "headerUrl": "starsInTheSky/2/11.png",
+    "degree": 2,
+    "sonCount": 1,
+    "nickName": "level2_1_1",
+    "parentGroups": [
+      {
+        "group": 1,
+        "pictureCount": 8
+      }
+    ],
+    "matchFromId": null,
+    "pictureCount": 0,
+    "matchedParentId": false
+  },
+  {
+    "group": 12,
+    "userId": 12,
+    "lable": "#12",
+    "headerUrl": "starsInTheSky/2/12.png",
+    "degree": 2,
+    "sonCount": 0,
+    "nickName": "level2_1_2",
+    "parentGroups": [
+      {
+        "group": 1,
+        "pictureCount": 8
+      }
+    ],
+    "matchFromId": null,
+    "pictureCount": 0,
+    "matchedParentId": false
+  },
+  {
+    "group": 21,
+    "userId": 21,
+    "lable": "#21",
+    "headerUrl": "starsInTheSky/2/21.png",
+    "degree": 2,
+    "sonCount": 0,
+    "nickName": "level2_2_1",
+    "parentGroups": [
+      {
+        "group": 2,
+        "pictureCount": 8
+      }
+    ],
+    "matchFromId": null,
+    "pictureCount": 0,
+    "matchedParentId": false
+  },
+  {
+    "group": 31,
+    "userId": 31,
+    "lable": "#31",
+    "headerUrl": "starsInTheSky/2/31.png",
+    "degree": 2,
+    "sonCount": 0,
+    "nickName": "level2_3_1",
+    "parentGroups": [
+      {
+        "group": 3,
+        "pictureCount": 8
+      }
+    ],
+    "matchFromId": null,
+    "pictu  reCount": 0,
+    "matchedParentId": false
+  },
+  {
+    "group": 111,
+    "userId": 111,
+    "lable": "#111",
+    "headerUrl": "starsInTheSky/3/111.png",
+    "degree": 3,
+    "sonCount": 2,
+    "nickName": "level3_1_1_1",
+    "parentGroups": [
+      {
+        "group": 11,
+        "pictureCount": 8
+      }
+    ],
+    "matchFromId": null,
+    "pictureCount": 0,
+    "matchedParentId": false
+  },
+  {
+    "group": 1111,
+    "userId": 1111,
+    "lable": "#1111",
+    "headerUrl": "starsInTheSky/4/1111.png",
+    "degree": 4,
+    "sonCount": 3,
+    "nickName": "level4_1_1_1_1",
+    "parentGroups": [
+      {
+        "group": 111,
+        "pictureCount": 7
+      }
+    ],
+    "matchFromId": null,
+    "pictureCount": 0,
+    "matchedParentId": false
+  },
+  {
+    "group": 1112,
+    "userId": 1112,
+    "lable": "#1112",
+    "headerUrl": "starsInTheSky/4/1112.png",
+    "degree": 4,
+    "sonCount": 0,
+    "nickName": "level4_1_1_1_2",
+    "parentGroups": [
+      {
+        "group": 111,
+        "pictureCount": 6
+      }
+    ],
+    "matchFromId": null,
+    "pictureCount": 0,
+    "matchedParentId": false
+  },
+  {
+    "group": 11111,
+    "userId": 11111,
+    "lable": "#11111",
+    "headerUrl": "starsInTheSky/5/11111.png",
+    "degree": 5,
+    "sonCount": 3,
+    "nickName": "level5_1_1_1_1_1",
+    "parentGroups": [
+      {
+        "group": 1111,
+        "pictureCount": 8
+      }
+    ],
+    "matchFromId": null,
+    "pictureCount": 0,
+    "matchedParentId": false
+  },
+  {
+    "group": 11112,
+    "userId": 11112,
+    "lable": "#11112",
+    "headerUrl": "starsInTheSky/5/11112.png",
+    "degree": 5,
+    "sonCount": 0,
+    "nickName": "level5_1_1_1_1_2",
+    "parentGroups": [
+      {
+        "group": 1111,
+        "pictureCount": 8
+      }
+    ],
+    "matchFromId": null,
+    "pictureCount": 0,
+    "matchedParentId": false
+  },
+  {
+    "group": 11113,
+    "userId": 11113,
+    "lable": "#11113",
+    "headerUrl": "starsInTheSky/5/11113.png",
+    "degree": 5,
+    "sonCount": 0,
+    "nickName": "level5_1_1_1_1_3",
+    "parentGroups": [
+      {
+        "group": 1111,
+        "pictureCount": 8
+      }
+    ],
+    "matchFromId": null,
+    "pictureCount": 0,
+    "matchedParentId": false
+  },
+  {
+    "group": 111111,
+    "userId": 111111,
+    "lable": "#111111",
+    "headerUrl": "starsInTheSky/6/111111.png",
+    "degree": 6,
+    "sonCount": 0,
+    "nickName": "level6_1_1_1_1_1_1",
+    "parentGroups": [
+      {
+        "group": 11111,
+        "pictureCount": 8
+      }
+    ],
+    "matchFromId": null,
+    "pictureCount": 0,
+    "matchedParentId": false
+  },
+  {
+    "group": 111112,
+    "userId": 111112,
+    "lable": "#111112",
+    "headerUrl": "starsInTheSky/6/111112.png",
+    "degree": 6,
+    "sonCount": 0,
+    "nickName": "level6_1_1_1_1_1_2",
+    "parentGroups": [
+      {
+        "group": 11111,
+        "pictureCount": 8
+      }
+    ],
+    "matchFromId": null,
+    "pictureCoun  t": 0,
+    "matchedParentId": false
+  },
+  {
+    "group": 111113,
+    "userId": 111113,
+    "lable": "#111113",
+    "headerUrl": "starsInTheSky/6/111113.png",
+    "degree": 6,
+    "sonCount": 0,
+    "nickName": "level6_1_1_1_1_1_3",
+    "parentGroups": [
+      {
+        "group": 11111,
+        "pictureCount": 8
+      }
+    ],
+    "matchFromId": null,
+    "pictureCount": 0,
+    "matchedParentId": false
+  }
+]
